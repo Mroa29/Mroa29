@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[ChatGPT Image 1 oct 2025, 10_00_58 p.m..png](https://github.com/Mroa29/Mroa29/blob/08cad32ba3aefbf00f87bf148b0e38aaabf586b8/ChatGPT%20Image%201%20oct%202025%2C%2010_00_58%20p.m..png)"  width="1000">
+  <img src="Mroa29/assets/banner.png)"  width="1000">
 </p>
 
 
