@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner Marcos Roa" width="1000">
+</p>
+
+
 🌟 **Marcos Roa**  
 💡 Emprendedor visionario | 🚀 Ingeniero en Informática | 🧑‍🏫 Coach en Desarrollo Personal & Emprendimiento  
 
