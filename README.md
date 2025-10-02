@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Main/Mroa29/assets/banner.png"  width="1000">
+  <img src="banner.png"  width="1000">
 </p>
 
 
