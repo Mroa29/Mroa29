@@ -1,15 +1,29 @@
-# 👋 ¡Hola! Soy Marcos Roa
-
-🚀 **Ingeniero en Informática** | 💡 **Emprendedor** | 🧑‍🏫 **Coach en Desarrollo Personal & Emprendimiento**
+🌟 **Marcos Roa**  
+💡 Emprendedor visionario | 🚀 Ingeniero en Informática | 🧑‍🏫 Coach en Desarrollo Personal & Emprendimiento  
 
 ---
 
-## 🌟 Sobre mí
-- 🔧 Más de **12 años** como emprendedor.
-- 🚗 Fundador de **Kronos Automotriz** (8+ años).
-- 🎯 Coach profesional certificado (UNAB & Centro Next Level, PNL, Master Practitioner).
-- 📊 Mentorías y formación para PYMEs (SERCOTEC, universidades, sector público/privado).
-- 🤖 Interés actual: **ML aplicado a salud y automotriz**, dashboards y automatización.
+## ✨ Sobre mí
+Soy un **profesional integral** con más de 12 años de experiencia como emprendedor y un profundo compromiso con el crecimiento humano y empresarial.  
+Me defino por ser **resolutivo, resiliente y entusiasta**, con una fe inquebrantable en mi capacidad para transformar desafíos en oportunidades.  
+
+### 🔹 Habilidades Blandas
+- Liderazgo inspirador y enfoque en el trabajo en equipo.  
+- Comunicación efectiva y capacidad de conectar emocionalmente con las personas.  
+- Coaching transformacional para potenciar talentos y eliminar creencias limitantes.  
+- Visión estratégica orientada a resultados y crecimiento sostenido.  
+
+### 🔹 Habilidades Técnicas
+- **Ingeniería en Informática** con dominio en desarrollo, gestión y optimización de procesos.  
+- Experiencia en **Machine Learning, Data Analytics y Power BI**.  
+- Manejo de herramientas de **gestión de proyectos** (Canvas, Gantt, metodologías ágiles).  
+- Conocimientos en **marketing digital, automatización y estrategias de ventas online**.  
+
+### 🌍 Mi Visión
+Impactar positivamente la vida de miles de emprendedores y organizaciones, integrando la **tecnología con el desarrollo personal**.  
+Mi propósito es construir comunidades sólidas y proyectos innovadores que generen abundancia, confianza y crecimiento a largo plazo.  
+
+🔥 **Mi mayor fortaleza:** convertir ideas en realidades tangibles, enfocándome siempre en el **QUÉ** y no en el **CÓMO**, porque sé que los resultados llegan cuando hay claridad y compromiso.
 
 ---
 
@@ -32,6 +46,7 @@
 
 ## 📈 Estadísticas
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mroa29&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mroa29&layout=compact&theme=radical)
 
 ---
