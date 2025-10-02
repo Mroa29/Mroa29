@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner Marcos Roa" width="1000">
+  <img src="banner.png" alt="Banner Marcos Roa" width="1000">
 </p>
 
 
